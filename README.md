@@ -1,10 +1,10 @@
 # ProtonVPN
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+![mage](https://github.com/jrford32/ProtonVPN/assets/101678489/3b2fff55-72f2-4d9b-a457-f332a65fddad)
 </p>
 
 <h1>ProtonVPN - Installation</h1>
-This tutorial outlines the installation of the ProtonVPn (Virtual Private Network).<br />
+This tutorial outlines the installation of the ProtonVPN (Virtual Private Network).<br />
 
 <h2>Environments and Technologies Used</h2>
 
