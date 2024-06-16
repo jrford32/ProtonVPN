@@ -18,14 +18,6 @@ This tutorial outlines the installation of the ProtonVPN (Virtual Private Networ
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
 <h2>Installation Steps</h2>
 
 <p>
@@ -84,7 +76,7 @@ Inside your VM, go to the ProtonVPN website and create an account. Once your acc
 
 </p>
 <p>
-On the dashboard, the lefthand side shows multiple different countries that you are able to connect to. Unfortunately, the free version of Proton does not allow you to freely sleect your country so in this case, we are going to select "Fastest" and see what country/region the client provides us. Once you try to connect to the VPN, the remote connection to the VPN may disconnect. This si fine because it will eventually reconnect. In this case, we were connected to a server in Japan, likely due to us creating the VM in East Asia.
+On the dashboard, the lefthand side shows multiple different countries that you are able to connect to. Unfortunately, the free version of Proton does not allow you to freely sleect your country so in this case, we are going to select "Fastest" and see what country/region the client provides us. Once you try to connect to the VPN, the remote connection to the VPN may disconnect. This is fine because it will eventually reconnect. In this case, we were connected to a server in Japan, likely due to us creating the VM in East Asia.
 
 ![image](https://github.com/jrford32/ProtonVPN/assets/101678489/dadb9cf5-66e9-48e8-86f0-5712089fdc0f)
   
@@ -95,3 +87,6 @@ On the dashboard, the lefthand side shows multiple different countries that you 
 ![image](https://github.com/jrford32/ProtonVPN/assets/101678489/3edd62a2-e34d-4a54-af34-67d47ae07a0a)
 
 As a final test to see what the actual VPN does to our browsing, I searched sites such as Google and Netflix and as you can see, the language and URLs are showing in Japanese. On the Netflix website, you can see the subscription cost shown as JPY 790.
+
+<h1>Summary</h1>
+In this project, I successfully installed Proton VPN on a virtual machine running Windows 10. The installation process involved setting up a virtual machine, configuring the necessary dependencies, and ensuring that Proton VPN was correctly installed and operational. The benefit of using a VPN allows for enhanced privacy by being able to mask your IP address as well as encrypt your internet traffic and secure sensitive information.
