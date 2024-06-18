@@ -36,7 +36,7 @@ To begin, we are first going to create a resource group in Microsoft Azure. I na
 
 </p>
 <p>
-Once, the resource group has been create, craete the virtual machine next. The virtual machine (VM) should should use the Windows 10 operating system and should be set in a different geographic location. I used Asia for this lab.
+Once the resource group has been created, create the virtual machine next. The virtual machine (VM) should use the Windows 10 operating system and should be set in a different geographic location. I used Asia for this lab.
 </p>
 <br />
 
@@ -66,7 +66,7 @@ Start the VM by copy and pasting the IP address into Windows 'Remote Desktop Con
 
 </p>
 <p>
-Inside your VM, go to the ProtonVPN website and create an account. Once your account is created, download the Windows VPN client to the VM. Once the VPN is installed, login using the account credentials you craeted previously and you will now be on the dashboard.
+Inside your VM, go to the ProtonVPN website and create an account. Once your account is created, download the Windows VPN client to the VM. Once the VPN is installed, login using the account credentials you created previously and you will now be on the dashboard.
 </p>
 <br />
 
@@ -76,7 +76,7 @@ Inside your VM, go to the ProtonVPN website and create an account. Once your acc
 
 </p>
 <p>
-On the dashboard, the lefthand side shows multiple different countries that you are able to connect to. Unfortunately, the free version of Proton does not allow you to freely sleect your country so in this case, we are going to select "Fastest" and see what country/region the client provides us. Once you try to connect to the VPN, the remote connection to the VPN may disconnect. This is fine because it will eventually reconnect. In this case, we were connected to a server in Japan, likely due to us creating the VM in East Asia.
+On the dashboard, the left hand side shows multiple different countries that you are able to connect to. Unfortunately, the free version of Proton does not allow you to freely sleect your country so in this case, we are going to select "Fastest" and see what country/region the client provides us. Once you try to connect to the VPN, the remote connection to the VPN may disconnect. This is fine because it will eventually reconnect. In this case, we were connected to a server in Japan, likely due to us creating the VM in East Asia.
 
 ![image](https://github.com/jrford32/ProtonVPN/assets/101678489/dadb9cf5-66e9-48e8-86f0-5712089fdc0f)
   
