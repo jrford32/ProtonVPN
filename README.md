@@ -86,7 +86,7 @@ On the dashboard, the left hand side shows multiple different countries that you
 ![image](https://github.com/jrford32/ProtonVPN/assets/101678489/88e13833-2d1e-4856-9b98-56df01823271)
 ![image](https://github.com/jrford32/ProtonVPN/assets/101678489/3edd62a2-e34d-4a54-af34-67d47ae07a0a)
 
-As a final test to see what the actual VPN does to our browsing, I searched sites such as Google and Netflix and as you can see, the language and URLs are showing in Japanese. On the Netflix website, you can see the subscription cost shown as JPY 790.
+As a final test to see what the actual VPN does to our browsing, I searched sites such as Google and Netflix and as you can see, the language and URLs are showing in Japanese. On the Netflix website, you can see the subscription cost shown as JPY 790, which is Japanese currency.
 
 <h1>Summary</h1>
 In this project, I successfully installed Proton VPN on a virtual machine running Windows 10. The installation process involved setting up a virtual machine, configuring the necessary dependencies, and ensuring that Proton VPN was correctly installed and operational. The benefit of using a VPN allows for enhanced privacy by being able to mask your IP address as well as encrypt your internet traffic and secure sensitive information.
